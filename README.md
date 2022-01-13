@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Peter Mansvelder!
+- 👀 I’m interested in open source electronics, robotics, domotics, and any other interesting project.
+- 🌱 I’m currently learning how to write autonomous 'smart' devices in Python.
+- 💞️ I’m looking to collaborate on any project involving python, home automation, 'smart' devices
+- 📫 pmansvelder@yahoo.com
